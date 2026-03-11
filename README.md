@@ -1,4 +1,4 @@
-## Hi there 👋
+Visit [HeteroPlace project homepage](https://heteroplace.pkueda.org.cn/) for more information.
 
 <!--
 **HeteroPlace/HeteroPlace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
